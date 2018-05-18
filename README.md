@@ -8,5 +8,5 @@
 
 ![screenshot1]
 
-[screenshot1]: https://github.com/isabellaou/web_dev_book_list/demo1.png "demo1"
+[screenshot1]: https://github.com/isabellaou/web_dev_book_list/blob/master/demo1.png "demo1"
 
